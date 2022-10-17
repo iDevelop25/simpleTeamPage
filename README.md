@@ -8,7 +8,7 @@ Hello everyone. In this time i bring you to a little project. Is a Simple Team P
 
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit [Simple Team Page](https://idevelop25.github.io/404-halloween/404.html)
+If you want to see the demo of this proyect deployed, you can visit [Simple Team Page](https://idevelop25.github.io/simpleTeamPage/)
 
 ## Preview
 #
